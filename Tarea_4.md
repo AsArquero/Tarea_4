@@ -13,7 +13,7 @@
 
 - DESCRIPCIÓN: En el mapa se pueden observar, gracias a los distintos colores empleados, las diferencias en los porcentajes de población extranjera dependiendo del barrio madrileño en el que nos encontramos. Mientras que en Valderribas, El Pardo, Estrella y Mirasierra los migrantes no llegan al 5% de la población, en barrios como Pradolongo, San Cristóbal, Sol y san Diego superan el 30% del total.
 
-##¿Está relacionado el porcentaje de población migrante con el nivel de renta de los hogares de Madrid?
+## ¿Está relacionado el porcentaje de población migrante con el nivel de renta de los hogares de Madrid?
 
 ![jEUlI-renta-media-por-familia-2017-](https://user-images.githubusercontent.com/90325763/144118372-0f1e976d-8a9f-42e7-ba75-0f4f6ac40cd2.png)
 
